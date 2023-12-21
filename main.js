@@ -33,3 +33,20 @@ function root() {
 
 console.log(root()); // 4.47213595499958
 
+
+function subtract() {
+    return c - d;
+    }
+
+console.log(subtract()); // -20
+
+console.log(text); // some text added in main.js file
+
+const text3 = 'some part of text added in main.js file';
+
+console.log(text3); // some part of text added in main.js file
+
+const text4 = 'some part of text added in main.js file';
+console.log(text4); // some part of text added in main.js file
+
+
