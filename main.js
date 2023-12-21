@@ -12,3 +12,12 @@ function multiply() {
     }
 
 console.log(multiply()); // 50
+
+const c = 20;
+const d = 40;
+
+function division() {
+    return c / d;
+    }
+
+console.log(division()); // 0.5
