@@ -13,4 +13,17 @@ function multiply() {
 
 console.log(multiply()); // 50
 
+
 const text = 'some method in main.js file';
+
+const c = 20;
+const d = 40;
+
+const text1 = 'some text added in main.js file';
+
+function division() {
+    return c / d;
+    }
+
+console.log(division()); // 0.5
+
