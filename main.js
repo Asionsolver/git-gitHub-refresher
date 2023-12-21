@@ -27,3 +27,9 @@ function division() {
 
 console.log(division()); // 0.5
 
+function root() {
+    return Math.sqrt(c);
+    }
+
+console.log(root()); // 4.47213595499958
+
