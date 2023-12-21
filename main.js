@@ -16,6 +16,8 @@ console.log(multiply()); // 50
 const c = 20;
 const d = 40;
 
+const text = 'some text added in main.js file';
+
 function division() {
     return c / d;
     }
