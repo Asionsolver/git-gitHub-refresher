@@ -27,6 +27,12 @@ function division() {
 
 console.log(division()); // 0.5
 
+function root() {
+    return Math.sqrt(c);
+    }
+
+console.log(root()); // 4.47213595499958
+
 
 function subtract() {
     return c - d;
@@ -42,4 +48,5 @@ console.log(text3); // some part of text added in main.js file
 
 const text4 = 'some part of text added in main.js file';
 console.log(text4); // some part of text added in main.js file
+
 
