@@ -6,3 +6,9 @@ function sum() {
     }
 
 console.log(sum()); // 15
+
+function multiply() {
+    return a * b;
+    }
+
+console.log(multiply()); // 50
