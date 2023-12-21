@@ -12,3 +12,5 @@ function multiply() {
     }
 
 console.log(multiply()); // 50
+
+const text = 'some method in main.js file';
